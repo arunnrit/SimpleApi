@@ -36,3 +36,9 @@ It is just a process to create a pipeline (It is just a build process + unit tes
 We can do same process with jenkins.
 We have to create own hosting environment for creating pipeline. Azure devops does not hosting pipleline.
 Pool....Agent(Hosting environment)Kestral is a hosting environment....Pipeline....Complete application environment for CI.
+
+
+22s3zxqe6nndgv7yztbkrs2qzgv2tnhszizxjida7nhsldlvq6da   arunnrit
+
+
+Artifact is packaging  of the build and Before moving to release
